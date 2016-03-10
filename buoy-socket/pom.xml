@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>buoy-socket</artifactId>
+    <parent>
+        <groupId>buoy</groupId>
+        <artifactId>buoy</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <packaging>jar</packaging>
+
+    <name>buoy-socket</name>
+    <description>A collection of network handlers for different protocols Buoy will want to expose.</description>
+
+    <url>https://github.com/greg-hellings/buoy-socket</url>
+
+    <inceptionYear>2015</inceptionYear>
+
+    <issueManagement>
+        <url>https://github.com/greg-hellings/buoy-socket/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+
+    <scm>
+        <connection>scm:git:git@github.com:greg-hellings/buoy-socket.git</connection>
+        <developerConnection>scm:git:git@github.com:greg-hellings/buoy-socket.git</developerConnection>
+        <url>git@github.com:greg-hellings/buoy-socket.git</url>
+    </scm>
+
+</project>
